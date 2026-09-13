@@ -1,0 +1,1 @@
+{"pack":{"pack_format":48,"description":"VeggiesDelight 1.9.3 bugfix: corrects the field name in all 9 shipped Farmer's Delight loot-table injection modifiers ('lootTable' -> 'table'), which silently failed to add veggie loot to any of the targeted structures."}}
