@@ -11,7 +11,7 @@ Check out the branch for the fix you need — each one's root *is* a ready-to-in
 
 ## Why branches instead of folders
 
-Each of these fixes patches a bug in someone else's mod. Once that mod's developer ships a real fix, the corresponding branch here is dead weight.
+Each of these fixes a small break in someone else's mod. Once that mod's developer ships a real fix, the corresponding branch here is dead weight and will be removed.
 
 ## General installation
 
